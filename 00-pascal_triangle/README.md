@@ -1,0 +1,1 @@
+Pascal triangle has been a mathematical interest for many
